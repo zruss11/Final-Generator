@@ -2,12 +2,12 @@
 
 ## Info:
 
-- Written for Python 2.7 only.
+- Written for Python 2.7.13 only.
 
 - Includes support for US only as of now.
 
-- Requirements: Modules: requests
-- pip install requests
+- Requirements: Modules: requests[security]
+- pip install requests[security]
 
 - Other requirements: Final Account
 
